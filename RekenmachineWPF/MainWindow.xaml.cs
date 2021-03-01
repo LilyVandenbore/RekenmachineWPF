@@ -24,5 +24,11 @@ namespace RekenmachineWPF
         {
             InitializeComponent();
         }
+
+        private void btnPlus_Click(object sender, RoutedEventArgs e)
+        {
+            string sResult = txtNumber1_.Text + txtNumber2_.Text;
+            lblResultPlus.Content = sResult.ToString();
+        }
     }
 }

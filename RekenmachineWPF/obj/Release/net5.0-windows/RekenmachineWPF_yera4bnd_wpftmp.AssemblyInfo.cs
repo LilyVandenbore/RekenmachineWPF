@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("RekenmachineWPF")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("RekenmachineWPF_yera4bnd_wpftmp")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("RekenmachineWPF")]
-[assembly: System.Reflection.AssemblyTitleAttribute("RekenmachineWPF")]
+[assembly: System.Reflection.AssemblyProductAttribute("RekenmachineWPF_yera4bnd_wpftmp")]
+[assembly: System.Reflection.AssemblyTitleAttribute("RekenmachineWPF_yera4bnd_wpftmp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

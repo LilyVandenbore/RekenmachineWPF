@@ -1,28 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nieuwe gebruiker\\RiderProjects\\RekenmachineWPF\\RekenmachineWPF\\RekenmachineWPF.csproj": {}
+    "C:\\Users\\Zakaria\\Source\\Repos\\RekenmachineWPF\\RekenmachineWPF\\RekenmachineWPF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nieuwe gebruiker\\RiderProjects\\RekenmachineWPF\\RekenmachineWPF\\RekenmachineWPF.csproj": {
+    "C:\\Users\\Zakaria\\Source\\Repos\\RekenmachineWPF\\RekenmachineWPF\\RekenmachineWPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nieuwe gebruiker\\RiderProjects\\RekenmachineWPF\\RekenmachineWPF\\RekenmachineWPF.csproj",
+        "projectUniqueName": "C:\\Users\\Zakaria\\Source\\Repos\\RekenmachineWPF\\RekenmachineWPF\\RekenmachineWPF.csproj",
         "projectName": "RekenmachineWPF",
-        "projectPath": "C:\\Users\\nieuwe gebruiker\\RiderProjects\\RekenmachineWPF\\RekenmachineWPF\\RekenmachineWPF.csproj",
-        "packagesPath": "C:\\Users\\nieuwe gebruiker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nieuwe gebruiker\\RiderProjects\\RekenmachineWPF\\RekenmachineWPF\\obj\\",
+        "projectPath": "C:\\Users\\Zakaria\\Source\\Repos\\RekenmachineWPF\\RekenmachineWPF\\RekenmachineWPF.csproj",
+        "packagesPath": "C:\\Users\\Zakaria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zakaria\\Source\\Repos\\RekenmachineWPF\\RekenmachineWPF\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet"
-        ],
         "configFilePaths": [
-          "C:\\Users\\nieuwe gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Zakaria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows"
+          "net5.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
